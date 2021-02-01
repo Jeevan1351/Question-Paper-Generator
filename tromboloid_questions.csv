@@ -1,0 +1,6 @@
+formula,no_of_tromboloids,op_1,op_3,op_n
+"l times b squared times k, where k is the square root of the ratio of h * l and b * b",a tromoboloid,volume rounded to the nearest integer value,highest volume among them,mean of all the volumes
+"l cubed times h raised to the fourth power divided by k, where k is the square root of b power 4, times l squared times h squared",three tromboloids,floor value of the volume,lowest volume among them,second highest volume among them
+"l cubed times b+h divided by k, where k is the cuberoot of l cubed plus l*b*d",n tromboloids ,celing value of the volume,difference of the highest and lowest volumes among them,second lowest volume among them
+"b squared times l squared divided by k, where k is l + b + h",,radius of the sphere having the same volume,median among the calculated volumes,find the volume that is closest to the mean value
+"l times b * b - h * l + l * b, divided by the squared root of 9 times squared root of 25",,,,
